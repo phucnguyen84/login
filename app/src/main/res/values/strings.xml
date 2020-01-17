@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="code">Mã khách hàng</string>
+    <string name="user">Tài khoản</string>
+    <string name="pass">Mật khẩu</string>
+    <string name="forgotPass">Quên mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+</resources>
